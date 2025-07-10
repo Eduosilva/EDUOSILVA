@@ -24,7 +24,7 @@ Sou profissional apaixonado por dados, com experiência em engenharia de dados e
 
 ### 🌟 Projetos em Destaque
 
-#### 🤖 Classificador de Clientes com Risco Jurídico  
+#### 🤖 Usando ML/IA para avaliar se um projeto é viável
 🔗 [Ver projeto](https://github.com/eduosilva/classificador-risco-juridico)
 
 #### 🧠 Detecção de Fraudes com Machine Learning  

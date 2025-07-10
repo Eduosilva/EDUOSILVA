@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mim
 
-Sou profissional apaixonado por dados, com experiência em engenharia de dados e ciência de dados aplicando **Machine Learning** para resolver problemas reais. Atuo na construção de pipelines escaláveis, análise preditiva e geração de insights com ferramentas robustas do ecossistema Big Data.
+Sou profissional apaixonado por dados, com experiência em **Engenharia de Dados** e ciência de dados aplicando **Machine Learning** para resolver problemas reais. Atuo na construção de pipelines escaláveis, análise preditiva e geração de insights com ferramentas robustas do ecossistema Big Data.
 
 ---
 

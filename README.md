@@ -25,6 +25,8 @@ Sou profissional apaixonado por dados, com experiência em **Engenharia de Dados
 | 🤖 Avaliação de Viabilidade de projetos | 🧠 Detecção de Fraudes | 📊 Dashboard BI + Python |
 |----------------------------|------------------------|---------------------------|
 | Regressão logística aplicada para prever se um projeto é viável. <br> 🔗 [Ver projeto](https://github.com/Eduosilva/IA_ML_VIABILIDADE_DE_PROJETOS) | Machine Learning para identificar transações suspeitas, usando RNA/MLP. <br> 🔗 [Ver projeto](https://github.com/eduosilva/fraude-transacional-ml) | Dashboard dinâmico integrando Power BI com Python. <br> 🔗 [Ver projeto](https://github.com/eduosilva/dashboard-bi-python) |
+| 🤖 Novo projeto | 🧠 Novo Projeto | 📊 Novo Projeto |
+|----------------------------|------------------------|---------------------------|
 |                            |                        |                           |
 |                            |                        |                           |
 |                            |                        |                           |
